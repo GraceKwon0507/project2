@@ -1,0 +1,34 @@
+body{
+  background-color: powderblue;
+}
+
+nav{
+  background-color: lavenderblush;
+  font-family: "Times New Roman";
+  font-weight: normal;
+  font-size: medium;
+}
+
+.centerNavigation{
+  display: inline-block;
+  text-align: center;
+  width: 33%;
+}
+
+.center_ul {
+  list-style-position: inside;
+}
+
+h1{
+  color: lightpink;
+  background-color: cadetblue;
+  font-family: "Cinzel Decorative", cursive;
+  font-weight: bold;
+  font-size: xx-large;
+  text-align: center;
+}
+
+section.one{
+  border-style: dotted;
+  border-width: thick;
+}
