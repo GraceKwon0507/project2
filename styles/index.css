@@ -32,8 +32,15 @@ h2{
   color: deeppink;
   background-color: aliceblue;
   font-family: Elephant;
+  margin-right: 81%;
+}
+
+h2.one{
+  color: deeppink;
+  background-color: aliceblue;
+  font-family: Elephant;
   text-align: center;
-  width: 20%;
+  margin: 0px 40%;
 }
 
 section.one{
