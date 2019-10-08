@@ -1,69 +1,69 @@
 @import url('https://fonts.googleapis.com/css?family=Great+Vibes|Sacramento&display=swap');
 
 body{
-    background-color: khaki;
+  background-color: khaki;
 }
 
 nav{
-    background-color: lavenderblush;
-    font-family: "Times New Roman";
-    font-weight: normal;
-    font-size: medium;
+  background-color: lavenderblush;
+  font-family: "Times New Roman";
+  font-weight: normal;
+  font-size: medium;
 }
 
 .centerNavigation{
-    display: inline-block;
-    text-align: center;
-    width: 33%;
+  display: inline-block;
+text-align: center;
+width: 33%;
 }
 
 .center_ul {
-    list-style-position: inside;
+  list-style-position: inside;
 }
 
 h1{
-    color: cornsilk;
-    background-color: yellowgreen;
-    font-family: 'Great Vibes', cursive;
-    font-weight: bold;
-    font-size: xx-large;
-    text-align: center;
+  color: cornsilk;
+  background-color: yellowgreen;
+  font-family: 'Great Vibes', cursive;
+  font-weight: bold;
+  font-size: xx-large;
+  text-align: center;
 }
 
 h2{
-    color: floralwhite;
-    background-color: darkseagreen;
-    font-family: "Malgun Gothic", cursive;
-    font-weight: bold;
-    font-size: x-large;
-    text-align: center;
-    margin: 0px 30%;
+  color: floralwhite;
+  background-color: darkseagreen;
+  font-family: "Malgun Gothic", cursive;
+  font-weight: bold;
+  font-size: x-large;
+  text-align: center;
+  margin: 0px 30%;
 }
 
 section.one{
-    border-style: ridge;
-    border-width: thick;
-    border-color: limegreen;
-    margin: 0px 10% 25px 10%;
-    width: 80%;
-    padding: 10px;
-    text-align: center;
+  border-style: ridge;
+  border-width: thick;
+  border-color: limegreen;
+  margin: 0px 10% 25px 10%;
+  width: 80%;
+  padding: 10px;
+  text-align: center;
 }
 
 section.two{
-    border-style: dotted;
-    border-width: thick;
-    margin: 0px 10% 25px 10%;
-    width: 80%;
-    padding: 10px;
-    text-align: center;
+  border-style: dotted;
+  border-width: thick;
+  margin: 0px 10% 25px 10%;
+  width: 80%;
+  padding: 10px;
+  text-align: center;
 }
 
 section.three{
-    border-style: dashed;
-    border-width: thick;
-    margin: 0px 10%;
-    width: 80%;
-    padding: 10px;
-    text-align: center;
+  border-style: dashed;
+  border-width: thick;
+  margin: 0px 10%;
+  width: 80%;
+  padding: 10px;
+  text-align: center;
 }
