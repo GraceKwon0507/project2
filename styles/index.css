@@ -28,7 +28,17 @@ h1{
   text-align: center;
 }
 
+h2{
+  color: deeppink;
+  background-color: aliceblue;
+  font-family: Elephant;
+  text-align: center;
+  width: 20%;
+}
+
 section.one{
   border-style: dotted;
   border-width: thick;
+  text-align: center;
+  font-family: "Comic Sans MS";
 }
