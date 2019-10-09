@@ -79,6 +79,7 @@ h3{
 section.one{
   border-style: dotted;
   border-width: thick;
+  padding: 10px;
   text-align: center;
   font-family: "Comic Sans MS";
 }
