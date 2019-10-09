@@ -36,7 +36,7 @@ h1{
   text-align: center;
 }
 
-h2 {
+h2{
   color: deeppink;
   background-color: aliceblue;
   font-family: Elephant;
@@ -161,14 +161,14 @@ li{
   margin-bottom: 0.5%;
 }
 
-span{
+div.one{
   text-align: center;
   display: inline-block;
   margin-top: -2%;
   margin-bottom: -2%;
 }
 
-span.one{
+div.two{
   margin-top: -1%;
   margin-bottom: 1%;
 }
