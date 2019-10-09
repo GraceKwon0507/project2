@@ -133,6 +133,14 @@ section.five{
   width: 50%;
 }
 
+.rightAlign_2{
+    float: right;
+    text-align: right;
+    width: 50%;
+    margin-top: 0.2%;
+    margin-bottom: 1%;
+}
+
 p.one{
   margin-top: 0.2%;
   margin-bottom: 1%;
