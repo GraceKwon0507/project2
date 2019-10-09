@@ -6,9 +6,17 @@ nav{
 }
 
 .centerNavigation{
-  display: inline-block;
   text-align: center;
-  width: 33%;
+}
+
+.centerNavigation ul{
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+.centerNavigation li{
+  float: left;
+  margin: 0px 120px 0px 120px;
 }
 
 .center_ul {
