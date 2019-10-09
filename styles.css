@@ -140,15 +140,14 @@ section.five{
   float: right;
   text-align: right;
   width: 50%;
-  margin: 0px 0px;
+  margin-top: 0px;
 }
 
 .rightAlign_2{
   float: right;
   text-align: right;
   width: 50%;
-  margin-top: 0.2%;
-  margin-bottom: 1%;
+  margin: 0px;
 }
 
 p.one{
