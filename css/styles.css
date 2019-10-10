@@ -64,16 +64,6 @@ h2.resume{
   width: min-content;
 }
 
-h2.awards{
-  color: cornflowerblue;
-  font-family: "Malgun Gothic";
-  font-weight: bold;
-  font-size: x-large;
-  margin-top: 0.2%;
-  margin-bottom: 1%;
-  margin-right: 71%;
-}
-
 h3{
   color: darksalmon;
   font-family: "Courier New";
@@ -81,7 +71,7 @@ h3{
   font-size: larger;
 }
 
-section.one{
+section.fun_fact{
   border-style: dotted;
   border-width: thick;
   padding: 10px;
@@ -89,7 +79,7 @@ section.one{
   font-family: "Comic Sans MS";
 }
 
-section.two{
+section.seoul{
   border-style: ridge;
   border-width: thick;
   border-color: deepskyblue;
@@ -100,7 +90,7 @@ section.two{
   text-align: center;
 }
 
-section.three{
+section.c_j{
   border-style: dotted;
   border-width: thick;
   margin: 0px 10% 25px 10%;
@@ -110,7 +100,7 @@ section.three{
   text-align: center;
 }
 
-section.four{
+section.d_j{
   border-style: dashed;
   border-width: thick;
   margin: 0px 10%;
@@ -123,6 +113,24 @@ section.four{
 section.five{
   font-family: 'Nanum Pen Script', cursive;
   font-size: x-large;
+}
+
+section.top{
+  color: mediumpurple;
+  margin-bottom: 1%;
+  width: 100%;
+}
+
+section.experience{
+  font-family: Consolas;
+}
+
+section.lan_skills{
+  font-family: "Century Gothic";
+}
+
+section.activities{
+  font-family: "Century Schoolbook";
 }
 
 .center_ul {
@@ -162,8 +170,23 @@ p.one{
   margin-bottom: 1%;
 }
 
+p.rotc{
+  color: gold;
+  background-color: black;
+  margin: 1% 25%;
+  margin-bottom: 0%;
+  text-align: center;
+}
+
 li{
   margin-bottom: 0.5%;
+}
+
+div.education{
+  text-align: center;
+  display: inline-block;
+  margin-top: -2%;
+  margin-bottom: -2%;
 }
 
 div.one{
