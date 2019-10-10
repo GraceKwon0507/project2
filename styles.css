@@ -27,6 +27,11 @@ body{
   background-color: powderblue;
 }
 
+body.southkorea{
+  width: 1240px;
+  height: 1000px;
+}
+
 h1{
   color: lightpink;
   background-color: cadetblue;
