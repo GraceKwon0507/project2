@@ -115,12 +115,6 @@ section.five{
   font-size: x-large;
 }
 
-section.top{
-  color: mediumpurple;
-  margin-bottom: 1%;
-  width: 100%;
-}
-
 section.experience{
   font-family: Consolas;
 }
@@ -199,4 +193,10 @@ div.one{
 div.two{
   margin-top: -1%;
   margin-bottom: 1%;
+}
+
+div.top {
+  color: mediumpurple;
+  margin-bottom: 1%;
+  width: 100%;
 }
