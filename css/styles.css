@@ -13,14 +13,11 @@ nav{
   display: inline-block;
   margin: 0;
   padding: 0;
+  list-style-type: none
 }
 .centerNavigation li{
   float: left;
   margin: 0px 120px 0px 120px;
-}
-
-.center_ul {
-  list-style-position: inside;
 }
 
 body{
