@@ -50,11 +50,6 @@ h2{
   width: max-content;
 }
 
-h2.one{
-  text-align: center;
-  width: max-content;
-}
-
 h2.resume{
   color: cornflowerblue;
   font-family: "Malgun Gothic";
@@ -110,7 +105,7 @@ section.d_j{
   text-align: center;
 }
 
-section.five{
+section.index{
   font-family: 'Nanum Pen Script', cursive;
   font-size: x-large;
 }
@@ -159,7 +154,7 @@ section.activities{
   list-style-type:none
 }
 
-p.one{
+p.education{
   margin-top: 0.2%;
   margin-bottom: 1%;
 }
@@ -183,20 +178,9 @@ div.education{
   margin-bottom: -2%;
 }
 
-div.one{
+div.border{
   text-align: center;
   display: inline-block;
   margin-top: -2%;
   margin-bottom: -2%;
-}
-
-div.two{
-  margin-top: -1%;
-  margin-bottom: 1%;
-}
-
-div.top {
-  color: mediumpurple;
-  margin-bottom: 1%;
-  width: 100%;
 }
