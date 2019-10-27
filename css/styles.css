@@ -102,11 +102,6 @@ section.d_j{
   text-align: center;
 }
 
-section.index{
-  font-family: 'Nanum Pen Script', cursive;
-  font-size: x-large;
-}
-
 section.experience{
   font-family: Consolas;
 }
@@ -166,6 +161,11 @@ p.rotc{
 
 li{
   margin-bottom: 0.5%;
+}
+
+div.index{
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: x-large;
 }
 
 div.education{
